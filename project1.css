@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+}
+body {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.hi{
+    background-image: url("img.jpg");
+    background-position:center ;
+    background-repeat: no-repeat;
+    height:;
+    width:;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header h1{
+    text-align: center;
+    color: rgb(237, 237, 226);
+    font-weight:bolder;
+    background-color: rgba(42, 85, 71, 0.519);
+    font size:40px;
+}
+
+header{
+    padding:40px ;
+}
+nav{
+    overflow:hidden;
+    text-align: center;
+}
+nav a {
+    background-color: rgba(131, 181, 165, 0.509);
+    color: rgb(247, 246, 235);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 20px;
+    text-align:center;
+    float: left;
+}
+.left{
+    float: left;
+    width: 33%;
+    padding: 2px;
+    background-color: rgba(113, 119, 120, 0.454);
+    color: azure;
+    margin: 1px;
+}
+.middle{
+    color: azure;
+    background-color: rgba(113, 119, 120, 0.454);
+    margin: 1px;
+    padding: 2px;
+    float: left;
+    width: 33%;
+}
+.right{    
+    color: azure;
+    width: 33%;
+    float: left;
+    padding: 2px;
+    margin: 1px;
+     background-color: rgba(113, 119, 120, 0.454);
+}
+h3{
+    font-weight: bold;
+}
+h2{
+    font-weight: bold;
+    color: azure;
+    text-align: center;
+    float: left;
+    padding: 20px;
+    background-color: rgba(86, 70, 100, 0.45);
+}
+iframe{
+    padding:20 px;
+}
+.sidebar{
+    background-color: rgba(79, 100, 93, 0.55);
+    color: azure;
+    margin-left: 80%;
+}
+p{
+    text-align: right;
+    font-weight: 900;
+}
+form{
+    width:15%
+    padding:20px;
+    text-align:right;
+}
+footer{
+    background-color: rgba(127, 255, 212, 0.476);
+    overflow: hidden;
+}
+footer a{
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: rgb(20, 20, 57);
+}
+
+h1 {}
